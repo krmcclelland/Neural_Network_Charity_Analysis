@@ -42,14 +42,14 @@ A foundation, Alphabet Soup, wants to predict where to make investments.  The go
     * Layer 3, Sigmoid activation is a better fit with 40 neurons 
     * Layer 4 with 20 neurons.    
 
-![Pic 1]()
-![Pic 2]()
-![Pic 3]()
-![Pic 4]()
-![Pic 5]()
-![Pic 6]()
-![Pic 7]()
-![Pic 8]()
+![Pic 1](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-1.jpg)
+![Pic 2](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-2.jpg)
+![Pic 3](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-3.jpg)
+![Pic 4](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-4.jpg)
+![Pic 5](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-5.jpg)
+![Pic 6](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-6.jpg)
+![Pic 7](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-7.jpg)
+![Pic 8](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-8.jpg)
 
 3.  Were you able to achieve the target model performance?      
     * The target for the model was 75%, but the best the model could produce was 72.7%.
@@ -60,8 +60,8 @@ A foundation, Alphabet Soup, wants to predict where to make investments.  The go
     * Other activations were tried such as tanh, but the range that the model produced went from 40% to 68% accuracy.  
     * The linear activation produced the worst accuracy, around 28%.  The relu activation at the early layers and sigmoid activation at the latter layers gave the best results.
   
-![Pic 9](Dev_1_and_2.PNG)   
-![Pic 10](Dev3.PNG)    
+![Pic 9](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Dev_1_and_2.PNG)
+![Pic 10](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Dev3.png)    
 
 ### Summary:   
 The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using the various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.   
