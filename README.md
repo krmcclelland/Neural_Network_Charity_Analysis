@@ -61,7 +61,7 @@ A foundation, Alphabet Soup, wants to predict where to make investments.  The go
     * The linear activation produced the worst accuracy, around 28%.  The relu activation at the early layers and sigmoid activation at the latter layers gave the best results.
   
 ![Pic 9](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Dev_1_and_2.PNG)
-![Pic 10](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Dev3.png)    
+![Pic 10]()    
 
 ### Summary:   
 The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using the various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.   
