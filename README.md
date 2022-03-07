@@ -52,7 +52,7 @@ A foundation, Alphabet Soup, wants to predict where to make investments.  The go
 ![Pic 8](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Model2-8.jpg)
 
 3.  Were you able to achieve the target model performance?      
-    * The target for the model was 75%, but the best the model could produce was 72.7%.
+    * The target for the model was 75%, but the best the model could produce was 72.5%.
 
 4.  What steps did you take to try and increase model performance?   
     * Columns were reviewed 
@@ -64,4 +64,4 @@ A foundation, Alphabet Soup, wants to predict where to make investments.  The go
 ![Pic 10](https://github.com/krmcclelland/Neural_Network_Charity_Analysis/blob/main/Image/Dev3.png)    
 
 ### Summary:   
-The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using the various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.   
+The relu and sigmoid activations yielded a 72.5% accuracy, which is the best the model could produce using the various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.   
